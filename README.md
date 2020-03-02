@@ -1,0 +1,2 @@
+# verzioniranje
+Vaje
