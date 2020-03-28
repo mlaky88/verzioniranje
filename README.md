@@ -1,2 +1,2 @@
-# verzioniranje
-Vaje
+# Verzioniranje
+Vaje Git
