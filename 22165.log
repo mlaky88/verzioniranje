@@ -1,0 +1,80 @@
+commit 803dad97620a5c29f8a0d0f0dec503df371eaf3c
+Merge: 8d37c4e 9978d7c
+Author: domen-osojnik <domen.osojnik@student.um.si>
+Date:   Tue Apr 7 12:45:47 2020 +0200
+
+    Rešen konflikt
+
+commit 8d37c4eabf38c2c43d762e9f51738b83a3b75f3c
+Author: domen-osojnik <domen.osojnik@student.um.si>
+Date:   Tue Apr 7 12:43:46 2020 +0200
+
+    Dodan dan v prvi vrstici datoteke v master veji!
+
+commit 9978d7c0387bb9d2ee67cf0cd2fd14f6fbf32741
+Author: domen-osojnik <domen.osojnik@student.um.si>
+Date:   Tue Apr 7 12:42:29 2020 +0200
+
+    Dodan datum in odstranjena zadnja črka!
+
+commit fa2dc06f2f6e0d5c73714298632f560a0db2be75
+Author: domen-osojnik <domen.osojnik@student.um.si>
+Date:   Tue Apr 7 12:40:08 2020 +0200
+
+    Dodana vrstica v master veji
+
+commit e50e69926e9f5586a759a38df3a04e047e6cd8dd
+Author: domen-osojnik <domen.osojnik@student.um.si>
+Date:   Tue Apr 7 12:39:16 2020 +0200
+
+    Odstrani file
+
+commit 2b15aae3f4b2ddf5a0b3ed3199617874d990f626
+Author: Domen Osojnik <domenosojnik@Domens-MacBook-Pro-4.local>
+Date:   Tue Apr 7 12:34:04 2020 +0200
+
+    To je novi commit v veji master!
+
+commit 209cbf8064536fc7a8243921ecc9c2b19bddaf14
+Merge: 0e975f9 a2223e5
+Author: Domen Osojnik <domenosojnik@Domens-MacBook-Pro-4.local>
+Date:   Tue Apr 7 12:29:31 2020 +0200
+
+    Merge branch 'experimental'
+    Zdruzi vejo experimental v MASTER
+
+commit 0e975f9ac2ef8aede99c2b462e00b7132f6c78a8
+Author: Domen Osojnik <domenosojnik@Domens-MacBook-Pro-4.local>
+Date:   Tue Apr 7 12:28:15 2020 +0200
+
+    To je nov commit iz master brancha, dodan je dan v prvo vrstico!
+
+commit a2223e5f2363a4a790038747891852d9a8e6166a
+Author: Domen Osojnik <domenosojnik@Domens-MacBook-Pro-4.local>
+Date:   Tue Apr 7 12:18:11 2020 +0200
+
+    To je commit z novim datumom iz veje experimental!
+
+commit 82d16874f344f6fa674ee44b7fa63e198bef32ea
+Author: Domen Osojnik <domenosojnik@Domens-MacBook-Pro-4.local>
+Date:   Tue Apr 7 12:15:20 2020 +0200
+
+    To je moj prvi commit!
+
+commit 01d936e8504f04fbeaf84ed7641471326ee486c9
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Sat Mar 28 10:08:20 2020 +0100
+
+    Update README.md
+
+commit 7b355a9156056041a66741fb2165155e306622b2
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:31:33 2020 +0100
+
+    Create print.sh
+
+commit 21b8489fbd878037584488d636f0faec53f7d27b
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:29:00 2020 +0100
+
+    Initial commit
