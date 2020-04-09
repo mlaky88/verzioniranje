@@ -1,0 +1,42 @@
+commit 2720fb1d35de6dbe50de0d776e71018f67d0fd32
+Merge: 44900e8 d4fe445
+Author: Aljaz <aljaz.belak.rebozu3120@gmail.com>
+Date:   Thu Apr 9 14:05:45 2020 +0200
+
+    Peti commit Merge branch 'test'
+
+commit 44900e84b5cc3ab53c60b30094bf913aae503efa
+Author: Aljaz <aljaz.belak.rebozu3120@gmail.com>
+Date:   Thu Apr 9 14:03:14 2020 +0200
+
+    Tretji commit (V prvi vrstici je sedaj zapisan dan v tednu)
+
+commit d4fe4458d8b62b8f6863542517a0f87bdd7b0f1c
+Author: Aljaz <aljaz.belak.rebozu3120@gmail.com>
+Date:   Thu Apr 9 14:01:44 2020 +0200
+
+    Drugi commit s popravki fajla (zbrisan en znak ter dodan datum in ura)
+
+commit 8477488c17c8f89ae2a495737e08951451fb321d
+Author: Aljaz <aljaz.belak.rebozu3120@gmail.com>
+Date:   Thu Apr 9 13:59:54 2020 +0200
+
+    Prvi commit, narejen 22143.id fajl z tekstom znotraj le - tega
+
+commit 01d936e8504f04fbeaf84ed7641471326ee486c9
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Sat Mar 28 10:08:20 2020 +0100
+
+    Update README.md
+
+commit 7b355a9156056041a66741fb2165155e306622b2
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:31:33 2020 +0100
+
+    Create print.sh
+
+commit 21b8489fbd878037584488d636f0faec53f7d27b
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:29:00 2020 +0100
+
+    Initial commit
