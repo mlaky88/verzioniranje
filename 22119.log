@@ -1,0 +1,42 @@
+commit 9d51069a36d7917fa47f46224a8e5565783d2a26
+Merge: 5d3662e f4a8354
+Author: gurqups <pinta.tilen@hotmail.com>
+Date:   Sun Apr 12 15:13:29 2020 +0000
+
+    merge
+
+commit 5d3662edd32635ea728df59960b0347b77f43c14
+Author: gurqups <pinta.tilen@hotmail.com>
+Date:   Sun Apr 12 15:11:53 2020 +0000
+
+    sprememba v 22119.id v maaster
+
+commit f4a83541b03a824be84351e39ca6fa74313207bf
+Author: gurqups <pinta.tilen@hotmail.com>
+Date:   Sun Apr 12 15:09:23 2020 +0000
+
+    sprememba v 22119.id.id veja test
+
+commit 05256f5709f249895fd06b1a05aad996dd8d20f6
+Author: gurqups <pinta.tilen@hotmail.com>
+Date:   Sun Apr 12 15:03:17 2020 +0000
+
+    dodana student folder ter 22119.id file
+
+commit 01d936e8504f04fbeaf84ed7641471326ee486c9
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Sat Mar 28 10:08:20 2020 +0100
+
+    Update README.md
+
+commit 7b355a9156056041a66741fb2165155e306622b2
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:31:33 2020 +0100
+
+    Create print.sh
+
+commit 21b8489fbd878037584488d636f0faec53f7d27b
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:29:00 2020 +0100
+
+    Initial commit
