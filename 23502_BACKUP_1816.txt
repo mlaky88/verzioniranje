@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Sreda
+=======
+Danes je soncn
+24.3.2021 16:11
+>>>>>>> test
