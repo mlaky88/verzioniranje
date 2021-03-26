@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Petek
 Danes je sončno
+=======
+Danes je sončno
+26/03/2021 18:10
+>>>>>>> experimental
