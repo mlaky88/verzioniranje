@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Petek
 Danes bom naredil vse naloge pri SA, ki še mi manjkajo
+=======
+Danes bom naredil vse naloge pri SA, ki še mi manjkaj
+26.3.2021 17:42
+>>>>>>> public
