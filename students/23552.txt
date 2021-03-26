@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Petek
 Ne vem, če sem naredil prav.
+=======
+Ne vem, če sem naredil prav
+26.3.2021 18:19
+>>>>>>> public
