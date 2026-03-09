@@ -1,2 +1,3 @@
 void feature();
-void api(int x);
+void api();
+void api();
