@@ -1,1 +1,2 @@
 void feature();
+void feature();
