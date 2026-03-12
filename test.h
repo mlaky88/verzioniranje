@@ -1,1 +1,2 @@
 int cherry();
+int apple();
