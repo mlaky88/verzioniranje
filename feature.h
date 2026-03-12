@@ -1,2 +1,2 @@
-void feature();
+void feature(float yy);
 void api();
